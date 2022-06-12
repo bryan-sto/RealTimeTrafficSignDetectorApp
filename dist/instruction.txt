@@ -1,0 +1,1 @@
+run activate (your venv) on cmd and or cmd as admin
